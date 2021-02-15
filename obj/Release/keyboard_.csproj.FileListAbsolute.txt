@@ -1,0 +1,14 @@
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\keyboard_.exe.config
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\keyboard_.exe
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\keyboard_.pdb
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\Guna.UI.dll
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.keyboard_form.resources
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.Properties.Resources.resources
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.csproj.GenerateResource.cache
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.csproj.CopyComplete
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.exe
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.pdb
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\bin\Release\ExtendAero.dll
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.csproj.CoreCompileInputs.cache
+C:\Users\mutassim ashraf\Desktop\NEAR_VOS_v2.0\keyboard_\obj\Release\keyboard_.csprojAssemblyReference.cache
